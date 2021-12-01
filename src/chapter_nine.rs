@@ -1,4 +1,5 @@
 //! Scratchpad for Programming Rust, Chapter 9
+#![allow(dead_code, unused_variables)]
 
 /// Video resolution
 #[derive(Debug)]
